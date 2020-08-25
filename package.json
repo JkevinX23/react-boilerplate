@@ -9,7 +9,7 @@
     "lint": "eslint src --max-warnings=0",
     "test": "jest",
     "test:watch": "yarn test --watch",
-    "storybook": "start-storybook -p -s ./public 6006",
+    "storybook": "start-storybook -p -s ./public 43783",
     "build-storybook": "build-storybook"
   },
   "husky": {
@@ -38,9 +38,7 @@
   "devDependencies": {
     "@babel/core": "^7.11.4",
     "@babel/preset-typescript": "^7.10.4",
-    "@storybook/addon-actions": "^6.0.16",
     "@storybook/addon-essentials": "^6.0.16",
-    "@storybook/addon-links": "^6.0.16",
     "@storybook/react": "^6.0.16",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^10.4.9",
