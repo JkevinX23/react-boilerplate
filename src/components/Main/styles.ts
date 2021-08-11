@@ -28,5 +28,5 @@ export const Desctiption = styled.h2`
 
 export const Illustration = styled.img`
   margin-top: 3rem;
-  width: min-content(30rem, 100%);
+  width: 30rem;
 `
